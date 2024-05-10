@@ -59,7 +59,7 @@
 </head>
 <body>
     <div class="logo">
-        <img src="305882583_548221643771156_742996996962679323_n.jpg" alt="Logo">
+        <img src="42faabca2ecb42a6d870100ad661f950000050.png" alt="Logo">
     </div>
     <h1>Calculadora de Puntuación para Opositores A2 Estabilización,  esta simulacion puede contener errores y no tiene valor documental</h1>
     <form id="calculatorForm">
